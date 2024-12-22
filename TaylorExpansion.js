@@ -6,8 +6,8 @@ import { BigNumber } from "./api/BigNumber";
 import { theory } from "./api/Theory";
 import { Utils } from "./api/Utils";
 
-var id = "taylor_expansion_theory";
-var name = "Taylor Expansion Theory";
+var id = "taylor_expansion";
+var name = "Taylor Expansion";
 var description = "Explore the power of Taylor expansions.";
 var authors = "Maimai";
 var version = 1;
